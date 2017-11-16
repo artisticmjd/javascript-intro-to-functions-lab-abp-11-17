@@ -20,5 +20,4 @@ function sayHiToGrandma(string){
   return string()
   //if (hi.lowercase === hi){
     console.log(string())
-  }
 }
