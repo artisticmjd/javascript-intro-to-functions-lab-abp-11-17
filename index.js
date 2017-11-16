@@ -20,6 +20,6 @@ function sayHiToGrandma(string){
   let whisperHi = string.toLowerCase()
   let hear = "I can't hear you!"
   if(whisperHi.toLowerCase() === whisperHi){
-    console.log()
+    console.log(hear)
   }
 }
