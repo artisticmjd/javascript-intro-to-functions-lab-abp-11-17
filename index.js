@@ -8,12 +8,12 @@ function whisper(string){
 
 function logShout(string){
   let shout = string.toUpperCase()
-  console.log(greeting)
+  console.log(shout)
 }
 
 function logWhisper(string){
   let whisper = string.toLowerCase()
-  console.log(greeting)
+  console.log(whisper)
 }
 
 function sayHiToGrandma(string){
