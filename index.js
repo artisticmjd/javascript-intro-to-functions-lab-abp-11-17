@@ -12,7 +12,7 @@ function logShout(string){
 }
 
 function logWhisper(string){
-  let lowercase = 'whisper'
+  let lowercase = 'hello'
   lowercase.toLowerCase === lowercase
   console.log("I Can't hear you!")
 }
