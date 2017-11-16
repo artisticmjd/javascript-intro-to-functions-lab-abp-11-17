@@ -21,5 +21,3 @@ function sayHiToGrandma(string){
   //if (hi.lowercase === hi){
     console.log(string() + mike);
 }
-
-console.log(string() + mike);
